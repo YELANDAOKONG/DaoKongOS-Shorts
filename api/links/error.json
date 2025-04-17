@@ -1,0 +1,11 @@
+{
+  "id": "test",
+  "active": true,
+  "banned": false,
+  "time": 1744843681714,
+  "target": "https://bilibili.com/",
+  "message": null,
+  "uploader": null,
+  "extra": {}
+  // BROKEN
+}
